@@ -1,0 +1,24 @@
+h1{
+  color: white;
+  text-align: center;
+  font-size: 100px;
+  font-family: "Arial";
+
+}
+body{
+  background-color:#e63900;
+}
+p{
+  transform: skewX(-30deg);
+  margin-left: 600px;
+  font-family: "Calibri Light";
+}
+.smalltext{
+  transform: skewX(-20deg);
+  font-family: "Calibri Light";
+  padding: 20px;
+  margin-right:800px;
+  font-size: 10px;
+
+
+}
